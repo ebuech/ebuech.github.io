@@ -10,3 +10,4 @@ redirect_from:
 
 I am currently a PhD Candidate in the Department of Mechanical Engineering at Stanford University. I am also a member of the Stanford Sustainable Systems Lab (S3L) where I am advised by Professor Ram Rajagopal. I am interested broadly in controls, optimization, and machine learning for power and energy systems. My current research focuses on demand-side flexibility, load modeling, residential electrification, and DER integration. 
 
+Previously, I obtained my M.S. degree from Stanford University in 2019 and B.S. degree from Tufts University in 2017, both in Mechanical Engineering. I also was a research intern at the National Renewable Energy Laboratory (NREL) and Oak Ridge National Laboratory (ORNL) working on building simultion and energy systems modeling. 

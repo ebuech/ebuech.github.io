@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Check out my [Google Scholar Page](https://scholar.google.com/citations?user=6lVsq5oAAAAJ&hl=en) for an updated list.
+
 Journal Publications
 ==
 

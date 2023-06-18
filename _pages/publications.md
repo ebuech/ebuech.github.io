@@ -25,6 +25,10 @@ Yuting Ji, Elizabeth Buechler, and Ram Rajagopal
 Elizabeth Buechler, Michaela Stockdale, Philip Boudreaux, and Simon Pallin  
 *Journal of Building Physics (2017)*
 
+[The value of demand response in Florida](https://www.sciencedirect.com/science/article/abs/pii/S1040619017302609)  
+Brady Stoll, Elizabeth Buechler, and Elaine Hale  
+*The Electricity Journal (2017)*
+
 [Effects of Air Leakage on Buildings' Overall Thermal Resistances Based on U.S. Climate Zones](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lVsq5oAAAAJ&sortby=pubdate&citation_for_view=6lVsq5oAAAAJ:0EnyYjriUFMC)  
 Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and Elizabeth Buechler  
 *ASHRAE Transactions (2017)* 
@@ -45,3 +49,5 @@ Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Ram Rajagopal
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, Abbas El Gamal  
 US Patent Application (2022)
+
+

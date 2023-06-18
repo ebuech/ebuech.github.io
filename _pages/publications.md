@@ -7,8 +7,8 @@ author_profile: true
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oAAAAJ&hl=en) page for an updated list.
 
-Journal Publications
-==
+# Journal Publications
+
 
 [Global changes in electricity consumption during COVID-19](https://www.sciencedirect.com/science/article/pii/S2589004221015388)  
 Elizabeth Buechler, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose Bolorinos, June Flora, Hilary Boudet, and Ram Rajagopal  

@@ -36,7 +36,7 @@ Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and Elizabeth Buechler
 # Conference Proceedings
 
 [Data-Driven Load Modeling and Forecasting of Residential Appliances](https://ieeexplore.ieee.org/abstract/document/8933148)  
-Yuting Ji, Elizabeth Buechler, and Ram Rajagopal  
+Elizabeth Buechler, Yuting Ji, and Ram Rajagopal  
 *IEEE PES General Meeting (2021)*
 
 [Time and voltage domain load models for appliance-level grid edge simulation and control](https://www.sciencedirect.com/science/article/abs/pii/S0378779620305538)  

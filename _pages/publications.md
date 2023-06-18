@@ -21,6 +21,14 @@ Elizabeth Buechler, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose 
 Yuting Ji, Elizabeth Buechler, and Ram Rajagopal  
 *IEEE Transactions on Smart Grid (2020)*
 
+[Probabilistic modeling of the indoor climates of residential buildings using EnergyPlus](https://journals.sagepub.com/doi/abs/10.1177/1744259117701893?journalCode=jend)  
+Elizabeth Buechler, Michaela Stockdale, Philip Boudreaux, and Simon Pallin  
+*Journal of Building Physics (2017)*
+
+[Effects of Air Leakage on Buildings' Overall Thermal Resistances Based on U.S. Climate Zones](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lVsq5oAAAAJ&sortby=pubdate&citation_for_view=6lVsq5oAAAAJ:0EnyYjriUFMC)  
+Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and Elizabeth Buechler  
+*ASHRAE Transactions* 
+
 # Conference Proceedings
 
 [Time and voltage domain load models for appliance-level grid edge simulation and control](https://www.sciencedirect.com/science/article/abs/pii/S0378779620305538)  

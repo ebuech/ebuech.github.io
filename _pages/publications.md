@@ -27,7 +27,7 @@ Elizabeth Buechler, Michaela Stockdale, Philip Boudreaux, and Simon Pallin
 
 [Effects of Air Leakage on Buildings' Overall Thermal Resistances Based on U.S. Climate Zones](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lVsq5oAAAAJ&sortby=pubdate&citation_for_view=6lVsq5oAAAAJ:0EnyYjriUFMC)  
 Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and Elizabeth Buechler  
-*ASHRAE Transactions* 
+*ASHRAE Transactions (2017)* 
 
 # Conference Proceedings
 

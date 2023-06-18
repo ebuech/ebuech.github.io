@@ -27,6 +27,11 @@ Yuting Ji, Elizabeth Buechler, and Ram Rajagopal
 Aaron Goldin, Elizabeth Buechler, Ram Rajagopal, Juan Ravas-Davila  
 *Power Systems Computation Conference (2020)*
 
+[Case Study on Sustainable Farm Electricity Management](https://www.youtube.com/watch?v=NmYLf5ce4jg)  
+Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Ram Rajagopal  
+*MIT A+B Applied Energy Symposium (2020)*  
+**Best Paper Award**
+
 # Patents
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  

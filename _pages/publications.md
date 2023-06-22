@@ -40,7 +40,7 @@ Elizabeth Buechler, Yuting Ji, and Ram Rajagopal
 *IEEE PES General Meeting (2021)*
 
 [Time and voltage domain load models for appliance-level grid edge simulation and control](https://www.sciencedirect.com/science/article/abs/pii/S0378779620305538)  
-Aaron Goldin, Elizabeth Buechler, Ram Rajagopal, Juan Ravas-Davila  
+Aaron Goldin, Elizabeth Buechler, Ram Rajagopal, Juan Rivas-Davila  
 *Power Systems Computation Conference (2020)*
 
 [Case Study on Sustainable Farm Electricity Management](https://www.youtube.com/watch?v=NmYLf5ce4jg)  

@@ -40,7 +40,7 @@ Elizabeth Buechler, Yuting Ji, and Ram Rajagopal
 *IEEE PES General Meeting (2021)*
 
 [Time and voltage domain load models for appliance-level grid edge simulation and control](https://www.sciencedirect.com/science/article/abs/pii/S0378779620305538)  
-Aaron Goldin, Elizabeth Buechler, Ram Rajagopal, Juan Rivas-Davila  
+Aaron Goldin, Elizabeth Buechler, Ram Rajagopal, and Juan Rivas-Davila  
 *Power Systems Computation Conference (2020)*
 
 [Case Study on Sustainable Farm Electricity Management](https://www.youtube.com/watch?v=NmYLf5ce4jg)  
@@ -51,7 +51,10 @@ Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Ram Rajagopal
 # Patents
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  
-Ram Rajagopal, Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, Abbas El Gamal  
+Ram Rajagopal, Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Abbas El Gamal  
 US Patent Application (2022)
 
+# Preprints (under review)
 
+[EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://www.techrxiv.org/articles/preprint/EV-ecosim_A_grid-aware_co-simulation_platform_for_the_design_and_optimization_of_electric_vehicle_charging_stations/23596725/2)  
+Emmanuel Balogun, Elizabeth Buechler, Siddharth Bhela, Simona Onori, and Ram Rajagopal

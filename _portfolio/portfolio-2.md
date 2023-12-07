@@ -1,6 +1,6 @@
 ---
 title: "Impacts of the COVID-19 Pandemic on Electricity Demand"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/covid_banner.png'>"
+excerpt: "<br/><img src='/images/covid_banner.png'>"
 collection: portfolio
 ---
 

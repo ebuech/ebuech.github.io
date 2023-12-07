@@ -1,6 +1,6 @@
 ---
 title: "Residential Load Modeling and Forecasting"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/load_model_banner.png'>"
 collection: portfolio
 ---
 

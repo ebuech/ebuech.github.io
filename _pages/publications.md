@@ -9,6 +9,10 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oA
 
 # Journal Publications
 
+[EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://ieeexplore.ieee.org/document/10342763)  
+Emmanuel Balogun, Elizabeth Buechler, Siddharth Bhela, Simona Onori, and Ram Rajagopal  
+*IEEE Transactions on Smart Grid (2023)*
+
 [The Grid Under Extremes: Pandemic Impacts on California Electricity Consumption](https://ieeexplore.ieee.org/abstract/document/9920515)  
 Doron Bergman, Tao Sun, Elizabeth Buechler, Chad Zanacco, and Ram Rajagopal  
 *IEEE Power and Energy Magazine (2022)*
@@ -53,8 +57,3 @@ Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Ram Rajagopal
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, Elizabeth Buechler, and Abbas El Gamal  
 US Patent Application (2022)
-
-# Preprints (under review/accepted)
-
-[EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://www.techrxiv.org/articles/preprint/EV-ecosim_A_grid-aware_co-simulation_platform_for_the_design_and_optimization_of_electric_vehicle_charging_stations/23596725/2)  
-Emmanuel Balogun, Elizabeth Buechler, Siddharth Bhela, Simona Onori, and Ram Rajagopal (accepted)

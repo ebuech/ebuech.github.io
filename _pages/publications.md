@@ -7,6 +7,11 @@ author_profile: true
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oAAAAJ&hl=en) page for an updated list.
 
+# Preprints (under review)
+
+[Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://arxiv.org/abs/2312.04102)  
+**Elizabeth Buechler**, Aaron Goldin, and Ram Rajagopal (under review)
+
 # Journal Publications
 
 [EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://ieeexplore.ieee.org/document/10342763)  

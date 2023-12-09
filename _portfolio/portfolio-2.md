@@ -6,7 +6,7 @@ collection: portfolio
 
 The COVID-19 pandemic and government-imposed restrictions significantly impacted the daily life of people around the world. Understanding how the pandemic affected electricity consumption patterns can provide insight into how extreme events may impact electricity systems in the future. To investigate this, we estimated changes in electricity consumption in 58 different countries/regions during the first ten months of the pandemic, and analyzed how changes relate to different factors such as government restrictions, GDP, mobility metrics, health outcomes, and characteristics of individual electricity systems. Results showed that government restrictions and mobility were significantly associated with changes in electricity consumption, confirming that policies affecting individual behavior represent powerful tools to impact consumption. However, certain variables associated with intrinsic properties of electricity systems also appear to be linked to changes in electricity consumption. In a second study, we used electricity consumption data from PG&E to analyze the impacts of the pandemic on electricity consumption in several counties in California, and made recommendations for improving planning, forecasting, and other operations in response to extreme events in the future.
 
-# Publications
+## Publications
 
 [Global changes in electricity consumption during COVID-19](https://www.sciencedirect.com/science/article/pii/S2589004221015388)  
 Elizabeth Buechler, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose Bolorinos, June Flora, Hilary Boudet, and Ram Rajagopal  
@@ -17,7 +17,7 @@ Elizabeth Buechler, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose 
 Doron Bergman, Tao Sun, Elizabeth Buechler, Chad Zanacco, and Ram Rajagopal  
 *IEEE Power and Energy Magazine (2022)*  
 
-# News coverage
+## News coverage
 
 [Shining a light on electricity declines during pandemic](https://www.opb.org/article/2022/01/13/shining-a-light-on-electricity-declines-during-pandemic/) from Oregon Public Broadcasting  
 

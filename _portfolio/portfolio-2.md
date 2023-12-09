@@ -19,6 +19,6 @@ Doron Bergman, Tao Sun, Elizabeth Buechler, Chad Zanacco, and Ram Rajagopal
 
 ## News coverage
 
-[Shining a light on electricity declines during pandemic](https://www.opb.org/article/2022/01/13/shining-a-light-on-electricity-declines-during-pandemic/) from Oregon Public Broadcasting  
+["Shining a light on electricity declines during pandemic"](https://www.opb.org/article/2022/01/13/shining-a-light-on-electricity-declines-during-pandemic/) from Oregon Public Broadcasting  
 
-[Speed and surprises: Decline and recovery of global electricity use in COVID’s first seven months](https://news.stanford.edu/2022/02/11/fall-rise-electricity-use-early-pandemic/) from Stanford News
+["Speed and surprises: Decline and recovery of global electricity use in COVID’s first seven months"](https://news.stanford.edu/2022/02/11/fall-rise-electricity-use-early-pandemic/) from Stanford News

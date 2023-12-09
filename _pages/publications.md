@@ -7,13 +7,13 @@ author_profile: true
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oAAAAJ&hl=en) page for an updated list.
 
-# Preprints (under review)
+## Preprints (under review)
 
 [Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://arxiv.org/abs/2312.04102)  
 **Elizabeth Buechler**, Aaron Goldin, and Ram Rajagopal  
 (under review)
 
-# Journal Publications
+## Journal Publications
 
 [EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://ieeexplore.ieee.org/document/10342763)  
 Emmanuel Balogun, **Elizabeth Buechler**, Siddharth Bhela, Simona Onori, and Ram Rajagopal  
@@ -43,7 +43,7 @@ Brady Stoll, **Elizabeth Buechler**, and Elaine Hale
 Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and **Elizabeth Buechler**  
 *ASHRAE Transactions (2017)* 
 
-# Conference Proceedings
+## Conference Proceedings
 
 [Data-Driven Load Modeling and Forecasting of Residential Appliances](https://ieeexplore.ieee.org/abstract/document/8933148)  
 **Elizabeth Buechler**, Yuting Ji, and Ram Rajagopal  
@@ -58,7 +58,7 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 *MIT A+B Applied Energy Symposium (2020)*  
 **Best Paper Award**
 
-# Patents
+## Patents
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Abbas El Gamal  

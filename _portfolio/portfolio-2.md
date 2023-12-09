@@ -10,8 +10,15 @@ The COVID-19 pandemic and government-imposed restrictions significantly impacted
 
 [Global changes in electricity consumption during COVID-19](https://www.sciencedirect.com/science/article/pii/S2589004221015388)  
 Elizabeth Buechler, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose Bolorinos, June Flora, Hilary Boudet, and Ram Rajagopal  
-*iScience (2022)*
+*iScience (2022)*  
+|[Github repository](https://github.com/SiobhanPowell/global-changes-in-electricity-consumption-during-covid19)|[Data repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EU6RCS)|
 
 [The Grid Under Extremes: Pandemic Impacts on California Electricity Consumption](https://ieeexplore.ieee.org/abstract/document/9920515)  
 Doron Bergman, Tao Sun, Elizabeth Buechler, Chad Zanacco, and Ram Rajagopal  
-*IEEE Power and Energy Magazine (2022)*
+*IEEE Power and Energy Magazine (2022)*  
+
+# News coverage
+
+[Shining a light on electricity declines during pandemic](https://www.opb.org/article/2022/01/13/shining-a-light-on-electricity-declines-during-pandemic/) from Oregon Public Broadcasting  
+
+[Speed and surprises: Decline and recovery of global electricity use in COVID’s first seven months](https://news.stanford.edu/2022/02/11/fall-rise-electricity-use-early-pandemic/) from Stanford News

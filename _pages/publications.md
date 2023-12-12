@@ -62,7 +62,7 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Abbas El Gamal  
-US Patent Application (2022)
+*US Patent Application (2022)*
 
 ## Undergraduate Thesis
 

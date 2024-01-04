@@ -1,6 +1,6 @@
 ---
 title: "Model Predictive Control Strategies for Grid-Interactive Water Heaters"
-excerpt: "Residential electric water heaters have significant load shifting capabilities due to their thermal heat capacity and large energy consumption. Model predictive control (MPC) has been shown to be an effective control strategy to enable water heater load shifting in home energy management systems. In this project, we analyze how modeling tank stratification in an MPC formulation impacts control performance for stratified electric water heaters under time-of-use (TOU) rates, using both experimental validation and simulations.<br/><img src='/images/wh_banner.png'>"
+excerpt: "Residential electric water heaters have significant load shifting capabilities due to their thermal heat capacity and large energy consumption. Model predictive control (MPC) has been shown to be an effective control strategy to enable water heater load shifting in home energy management systems. In this project, we analyze how modeling tank stratification in an MPC formulation impacts control performance for stratified electric water heaters under time-of-use (TOU) rates, using both simulation and experimental validation in a laboratory testbed.<br/><img src='/images/wh_banner.png'>"
 collection: portfolio
 ---
 

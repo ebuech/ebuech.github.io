@@ -1,6 +1,6 @@
 ---
 title: "EV-EcoSim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging infrastructure"
-excerpt: "<br/><img src='/images/evecosim_banner.png'>"
+excerpt: "To enable the electrification of transportation systems, it is important to understand how technologies such as grid storage, solar photovoltaic systems, and control strategies can aid the deployment of electric vehicle charging at scale. In this work, we present EV-EcoSim, a co-simulation platform that couples electric vehicle charging, battery systems, solar photovoltaic systems, grid transformers, control strategies, and power distribution systems, to perform cost quantification and analyze the impacts of electric vehicle charging on the grid. This python-based platform can run a receding horizon control scheme for real-time operation and a one-shot control scheme for planning problems, with multi-timescale dynamics for different systems to simulate realistic scenarios. We demonstrate the utility of EV-EcoSim via a case study focused on economic evaluation of battery size to reduce electricity costs while considering impacts of fast charging on the power distribution grid. <br/><img src='/images/evecosim_banner.png'>"
 collection: portfolio
 ---
 

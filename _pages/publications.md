@@ -68,4 +68,4 @@ Ram Rajagopal, Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Abbas E
 
 [Tensile Stress-Strain Measurements of Nb3Sn Superconducting Strands and Cables at Room Temperature](https://dl.tufts.edu/concern/pdfs/9880w293k)  
 **Elizabeth Buechler**  
-*Tufts University Senior Honors Thesis*
+*Tufts University Senior Honors Thesis (2017)*

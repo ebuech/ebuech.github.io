@@ -12,4 +12,4 @@ Residential electric water heaters have significant load shifting capabilities d
 - Designing a [laboratory testbed](https://ramr.sites.stanford.edu/lab-facilities) with the sensing and measurement capabilities to validate different control strategies under realistic conditions.
 - Performing extensive real-time tests of different controllers using the laboratory testbed and simulations to compare their performance.
 
-Check out [our preprint here](https://arxiv.org/abs/2312.04102).
+Check out [our preprint here](https://arxiv.org/abs/2312.04102) (accepted to IEEE Transactions on Smart Grid).

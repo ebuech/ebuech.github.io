@@ -12,4 +12,9 @@ Residential electric water heaters have significant load shifting capabilities d
 - Designing a [laboratory testbed](https://ramr.sites.stanford.edu/lab-facilities) with the sensing and measurement capabilities to validate different control strategies under realistic conditions.
 - Performing extensive real-time tests of different controllers using the laboratory testbed and simulations to compare their performance.
 
-Check out [our preprint here](https://arxiv.org/abs/2312.04102) (accepted to IEEE Transactions on Smart Grid)
+## Publications
+
+[Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://ieeexplore.ieee.org/document/10436431)  
+Elizabeth Buechler, Aaron Goldin, and Ram Rajagopal  
+*IEEE Transactions on Smart Grid (2024)*  
+

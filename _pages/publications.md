@@ -11,7 +11,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oA
 
 [Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://ieeexplore.ieee.org/document/10436431)  
 **Elizabeth Buechler**, Aaron Goldin, and Ram Rajagopal  
-*IEEE Transactions on Smart Grid*  
+*IEEE Transactions on Smart Grid (2024)*  
 
 [EV-ecosim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging stations](https://ieeexplore.ieee.org/document/10342763)  
 Emmanuel Balogun, **Elizabeth Buechler**, Siddharth Bhela, Simona Onori, and Ram Rajagopal  

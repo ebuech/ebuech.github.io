@@ -12,3 +12,7 @@ I am a PhD Candidate in the Department of Mechanical Engineering at Stanford Uni
 I received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
 
 Email: ebuech (at) stanford (dot) edu
+
+## Latest News
+
+**2/15/23** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control strategies for residential water heaters was published in IEEE Transactions on Smart Grid 

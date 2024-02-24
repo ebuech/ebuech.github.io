@@ -15,6 +15,8 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
+**Upcoming** - I will be presenting our work on MPC strategies for grid-interactive water heaters at the [ACEEE Hot Water Forum](https://www.aceee.org/2024-hot-water-forum-hot-air-forum) in March
+
 **2/15/24** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control strategies for residential water heaters was published in IEEE Transactions on Smart Grid 
 
 **12/7/23** - Our [EV-EcoSim paper](https://ieeexplore.ieee.org/abstract/document/10342763) was published in IEEE Transactions on Smart Grid and the [code is available on github](https://github.com/ebalogun01/EV-EcoSim)

@@ -46,7 +46,11 @@ Brady Stoll, **Elizabeth Buechler**, and Elaine Hale
 Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and **Elizabeth Buechler**  
 *ASHRAE Transactions (2017)* 
 
-## Conference Proceedings
+## Conference Proceedings/Presentations
+
+[Designing Better Model Predictive Controllers to Maximize the Flexibility of Grid-Interactive Water Heaters](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view)  
+**Elizabeth Buechler**  
+*2024 ACEEE Hot Water Forum*
 
 [Data-Driven Load Modeling and Forecasting of Residential Appliances](https://ieeexplore.ieee.org/abstract/document/8933148)  
 **Elizabeth Buechler**, Yuting Ji, and Ram Rajagopal  
@@ -57,11 +61,6 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 *MIT A+B Applied Energy Symposium (2020)*  
 **Best Paper Award**
 
-## Other Presentations
-
-[Designing Better Model Predictive Controllers to Maximize the Flexibility of Grid-Interactive Water Heaters](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view)  
-Elizabeth Buechler  
-*2024 ACEEE Hot Water Forum*
 
 ## Patents
 

@@ -57,6 +57,12 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 *MIT A+B Applied Energy Symposium (2020)*  
 **Best Paper Award**
 
+## Other Presentations
+
+[Designing Better Model Predictive Controllers to Maximize the Flexibility of Grid-Interactive Water Heaters](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view)  
+Elizabeth Buechler  
+*2024 ACEEE Hot Water Forum*
+
 ## Patents
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US20220321664A1/en)  

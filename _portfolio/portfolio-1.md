@@ -18,3 +18,7 @@ Residential electric water heaters have significant load shifting capabilities d
 Elizabeth Buechler, Aaron Goldin, and Ram Rajagopal  
 *IEEE Transactions on Smart Grid (2024)*  
 
+## Presentations
+
+[Designing Better Model Predictive Controllers to Maximize the Flexibility of Grid-Interactive Water Heaters](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view)  
+*2024 ACEEE Hot Water Forum*

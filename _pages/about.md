@@ -15,7 +15,7 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
-**3/14/24** - I presented our work on MPC strategies for grid-interactive water heaters at the [ACEEE Hot Water Forum](https://www.aceee.org/2024-hot-water-forum-hot-air-forum). See the slides [here](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view).
+**3/14/24** - I presented our work on model predictive control strategies for grid-interactive water heaters at the [ACEEE Hot Water Forum](https://www.aceee.org/2024-hot-water-forum-hot-air-forum). See the slides [here](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view).
 
 **2/15/24** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control strategies for residential water heaters was published in IEEE Transactions on Smart Grid 
 

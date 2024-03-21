@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the Department of Mechanical Engineering at Stanford University and a member of the [Stanford Sustainable Systems Lab (S3L)](https://ramr.sites.stanford.edu/), where I am advised by [Professor Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal). I am broadly interested in controls, optimization, and machine learning for power and energy systems. My current research focuses on demand-side flexibility, load modeling/control, residential electrification, and DER integration. During graduate school, I have been supported by a Stanford Graduate Fellowship and a National Science Foundation Graduate Research Fellowship.
+I am a PhD Candidate in the Department of Mechanical Engineering at Stanford University and a member of the [Stanford Sustainable Systems Lab (S3L)](https://ramr.sites.stanford.edu/), where I am advised by [Professor Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal). I am interested in using tools from controls, optimization, and machine learning to address challenges related to demand-side flexibility in power systems, residential electrification, and the integration of distributed energy resources. Check out my [publications](https://ebuech.github.io/publications/) and [research projects](https://ebuech.github.io/portfolio/) for more information about my work.
 
-I received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
+During graduate school, I have been supported by a Stanford Graduate Fellowship and a National Science Foundation Graduate Research Fellowship. I received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
 
 Email: ebuech (at) stanford (dot) edu
 

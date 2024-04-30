@@ -64,9 +64,9 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 
 ## Patents
 
-[Behind-the-meter resource management system](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11968263)  
+[Behind-the-meter resource management system](https://patents.google.com/patent/US11968263B2/en)  
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Abbas El Gamal  
-*U.S. Patent No. 11,968,263*
+*U.S. Patent No. 11,968,263 (2024)*
 
 ## Undergraduate Thesis
 

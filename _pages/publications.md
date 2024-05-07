@@ -24,6 +24,7 @@ Doron Bergman, Tao Sun, **Elizabeth Buechler**, Chad Zanacco, and Ram Rajagopal
 [Global changes in electricity consumption during COVID-19](https://www.sciencedirect.com/science/article/pii/S2589004221015388)  
 **Elizabeth Buechler**, Siobhan Powell, Tao Sun, Nicolas Astier, Chad Zanocco, Jose Bolorinos, June Flora, Hilary Boudet, and Ram Rajagopal  
 *iScience (2022)*
+[[Stanford News](https://news.stanford.edu/2022/02/11/fall-rise-electricity-use-early-pandemic/)] [[Oregon Public Broadcasting](https://www.opb.org/article/2022/01/13/shining-a-light-on-electricity-declines-during-pandemic/)]
 
 [Time and voltage domain load models for appliance-level grid edge simulation and control](https://www.sciencedirect.com/science/article/abs/pii/S0378779620305538)  
 Aaron Goldin, **Elizabeth Buechler**, Ram Rajagopal, and Juan Rivas-Davila  

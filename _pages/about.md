@@ -19,6 +19,6 @@ Email: ebuech (at) stanford (dot) edu
 
 **2/15/24** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control strategies for residential water heaters was published in IEEE Transactions on Smart Grid 
 
-**2/9/24** - I presented our work on model predictive control strategies for grid-interactive water heaters to the [Advanced Water Heating Initiative (AWHI) Connectivity Working Group](https://www.advancedwaterheatinginitiative.org/working-groups)
+**2/9/24** - I presented our work on model predictive control strategies for grid-interactive water heaters to the [Advanced Water Heating Initiative (AWHI) Connectivity Working Group](https://www.advancedwaterheatinginitiative.org/working-groups). Check out the presentation recording [here](https://www.youtube.com/watch?v=po-KWkwEKNY).
 
 **12/7/23** - Our [EV-EcoSim paper](https://ieeexplore.ieee.org/abstract/document/10342763) was published in IEEE Transactions on Smart Grid and the [code is available on github](https://github.com/ebalogun01/EV-EcoSim)

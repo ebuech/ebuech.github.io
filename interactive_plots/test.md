@@ -1,3 +1,3 @@
 
-[Test figure](https://ebuech.github.io/interactive_plots/first_figure.html)  
+[Timeseries power plot](https://ebuech.github.io/interactive_plots/timeseries.html)  
  

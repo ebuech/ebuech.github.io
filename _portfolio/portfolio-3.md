@@ -14,3 +14,10 @@ In this paper, we develop a statistical load model which describes the probabili
 [Data-Driven Load Modeling and Forecasting of Residential Appliances](https://ieeexplore.ieee.org/abstract/document/8933148)  
 Yuting Ji, Elizabeth Buechler, and Ram Rajagopal  
 *IEEE Transactions on Smart Grid (2020)*
+
+
+## Presentations
+
+[Data-Driven Load Modeling and Forecasting of Residential Appliances](https://www.youtube.com/watch?v=Ae70BM1TSq4)
+Elizabeth Buechler, Yuting Ji, and Ram Rajagopal
+Presentation at the 2021 IEEE PES General Meeting (virtual)

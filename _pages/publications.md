@@ -56,12 +56,18 @@ Simon Pallin, Michaela Stockdale, Phillip Boudereaux, and **Elizabeth Buechler**
 [Data-Driven Load Modeling and Forecasting of Residential Appliances](https://ieeexplore.ieee.org/abstract/document/8933148)  
 **Elizabeth Buechler**, Yuting Ji, and Ram Rajagopal  
 *IEEE PES General Meeting (2021)*
+[Presentation video](https://www.youtube.com/watch?v=Ae70BM1TSq4)
 
 [Case Study on Sustainable Farm Electricity Management](https://www.youtube.com/watch?v=NmYLf5ce4jg)  
 Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal  
 *MIT A+B Applied Energy Symposium (2020)*  
 **Best Paper Award**
 
+## Other Presentations
+
+[Design and Validation of Model Predictive Control Strategies for Water Heater Load Shifting](https://www.youtube.com/watch?v=po-KWkwEKNY)  
+Elizabeth Buechler  
+*Advanced Water Heating Initiative (AWHI) Connectivity Working Group (2024)*
 
 ## Patents
 

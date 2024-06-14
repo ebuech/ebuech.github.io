@@ -15,7 +15,7 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
-**4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was issued
+**4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was granted.
 
 **3/14/24** - I presented our work on model predictive control strategies for grid-interactive water heaters at the [ACEEE Hot Water Forum](https://www.aceee.org/2024-hot-water-forum-hot-air-forum). See the slides [here](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view).
 

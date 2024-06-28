@@ -69,6 +69,11 @@ Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Ram Rajagopal
 Elizabeth Buechler  
 *Advanced Water Heating Initiative (AWHI) Connectivity Working Group (2024)*
 
+[Predictive Control Strategies for Water Heater Load Shifting](https://www.youtube.com/watch?v=mUwGLxcqN3Y)  
+Elizabeth Buechler
+*Advanced Water Heating Initiative (AWHI) All Stakeholders Meeting (2024)*
+
+
 ## Patents
 
 [Behind-the-meter resource management system](https://patents.google.com/patent/US11968263B2/en)  

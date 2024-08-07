@@ -15,11 +15,13 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
+**8/6/24** - Check out our [new preprint](https://arxiv.org/pdf/2408.02868) on designing model predictive control strategies for residential grid-interactive water heaters.
+
 **4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was granted.
 
 **3/14/24** - I presented our work on model predictive control strategies for grid-interactive water heaters at the [ACEEE Hot Water Forum](https://www.aceee.org/2024-hot-water-forum-hot-air-forum). See the slides [here](https://drive.google.com/file/d/1m2ocIFup4UE6DT-o-kyK-dicB9n1Orhv/view).
 
-**2/15/24** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control strategies for residential water heaters was published in IEEE Transactions on Smart Grid 
+**2/15/24** - Our [new paper](https://ieeexplore.ieee.org/document/10436431) on model predictive control (MPC) strategies for residential water heaters was published in IEEE Transactions on Smart Grid. This work analyzes the impact of control model fidelity on MPC performance through experimental testing and simulations.
 
 **2/9/24** - I presented our work on model predictive control strategies for grid-interactive water heaters to the [Advanced Water Heating Initiative (AWHI) Connectivity Working Group](https://www.advancedwaterheatinginitiative.org/working-groups). Check out the presentation recording [here](https://www.youtube.com/watch?v=po-KWkwEKNY).
 

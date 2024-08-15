@@ -15,6 +15,8 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
+**Upcoming** - I'm looking forward to presenting our work on MPC strategies for residential water heating at the [SIGEnergy Graduate Student Seminar](https://sites.google.com/view/sigenergy-seminar/home) on 8/28/24
+
 **8/6/24** - Check out our [new preprint](https://arxiv.org/pdf/2408.02868) on designing model predictive control strategies for residential grid-interactive water heaters.
 
 **4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was granted.

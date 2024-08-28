@@ -17,7 +17,7 @@ Email: ebuech (at) stanford (dot) edu
 
 **8/28/24** - I presented our work on model predictive control strategies for residential water heater load shifting at the [SIGEnergy Graduate Student Seminar](https://sites.google.com/view/sigenergy-seminar/home)
 
-**8/6/24** - Check out our [new preprint](https://arxiv.org/pdf/2408.02868) on designing model predictive control strategies for residential grid-interactive water heaters.
+**8/6/24** - We posted a [new preprint](https://arxiv.org/pdf/2408.02868) on designing model predictive control strategies for residential grid-interactive water heaters.
 
 **4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was granted.
 

@@ -15,7 +15,7 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
-**10/4/24** - I successfully defended my PhD disseration titled "Data-driven modeling and control of residential loads for grid flexibility"!
+**10/4/24** - I successfully defended my PhD dissertation titled "Data-driven modeling and control of residential loads for grid flexibility"!
 
 **8/28/24** - I presented our work on model predictive control strategies for residential water heater load shifting at the [SIGEnergy Graduate Student Seminar](https://sites.google.com/view/sigenergy-seminar/home)
 

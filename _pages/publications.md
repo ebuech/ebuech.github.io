@@ -13,6 +13,11 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oA
 **Elizabeth Buechler**, Aaron Goldin, and Ram Rajagopal  
 *Under review*
 
+[Design and Validation of a Power Modulation System for Residential Demand-Side Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772105)  
+Aaron Goldin, **Elizabeth Buechler**, Ram Rajagopal, and Juan M. Rivas-Davia  
+*Under review*
+
+
 ## Journal Publications
 
 [Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://ieeexplore.ieee.org/document/10436431)  

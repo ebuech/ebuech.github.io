@@ -91,8 +91,13 @@ Elizabeth Buechler
 Ram Rajagopal, Gustavo Cezar, Thomas Navidi, **Elizabeth Buechler**, and Abbas El Gamal  
 *U.S. Patent No. 11,968,263 (2024)*
 
-## Undergraduate Thesis
+## Dissertations
+
+[Data-driven modeling and control of residential loads for grid flexibility](https://stacks.stanford.edu/file/druid:rx842yr5623/buechler_dissertation_final-augmented.pdf)  
+**Elizabeth Buechler**  
+*PhD Dissertation, Stanford University (2024)*
+
 
 [Tensile Stress-Strain Measurements of Nb3Sn Superconducting Strands and Cables at Room Temperature](https://dl.tufts.edu/concern/pdfs/9880w293k)  
 **Elizabeth Buechler**  
-*Tufts University Senior Honors Thesis (2017)*
+*Senior Honors Thesis, Tufts University (2017)*

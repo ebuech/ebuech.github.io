@@ -11,7 +11,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=6lVsq5oA
 
 [Designing model predictive control strategies for grid-interactive water heaters for load shifting applications](https://arxiv.org/pdf/2408.02868)  
 **Elizabeth Buechler**, Aaron Goldin, and Ram Rajagopal  
-*Under review*
+*Accepted*
 
 
 ## Journal Publications

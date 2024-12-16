@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduating PhD student in the Department of Mechanical Engineering at Stanford University and a member of the [Stanford Sustainable Systems Lab (S3L)](https://ramr.sites.stanford.edu/), where I am advised by [Professor Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal). I am interested in using tools from controls and optimization to address challenges related to demand-side flexibility, electrification, and DER integration in electric power systems. My most recent projects focus on developing predictive control strategies for grid-interactive residential water heaters. Check out my [publications](https://ebuech.github.io/publications/) and [research projects](https://ebuech.github.io/portfolio/) for more information about my work.
+I recently graduated from Stanford University with my PhD in Mechanical Engineering. At Stanford, I was a member of the [Stanford Sustainable Systems Lab (S3L)](https://ramr.sites.stanford.edu/), where I was advised by [Professor Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal). I am interested in using tools from controls and optimization to address challenges related to demand-side flexibility, grid-interactive buildings, electrification, and DER integration in electric power systems. My most recent projects focus on developing predictive control strategies for grid-interactive residential water heaters. Check out my [publications](https://ebuech.github.io/publications/) and [research projects](https://ebuech.github.io/portfolio/) for more information about my work. **I am currently looking for opportunities at national labs or in industry.**
 
-I received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
+I previously received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
 
-**I am currently looking for opportunities at national labs or in industry.**
 
 Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
-**10/4/24** - I successfully defended my PhD dissertation titled "Data-driven modeling and control of residential loads for grid flexibility"!
+**12/2/24** - I successfully defended and submitted my PhD dissertation titled "Data-driven modeling and control of residential loads for grid flexibility"!
 
 **8/28/24** - I presented our work on model predictive control strategies for residential water heater load shifting at the [SIGEnergy Graduate Student Seminar](https://sites.google.com/view/sigenergy-seminar/home)
 

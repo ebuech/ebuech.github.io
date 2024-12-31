@@ -10,15 +10,14 @@ Residential electric water heaters have significant load shifting capabilities d
 
 ## Publications
 
+[Designing model predictive control strategies for grid-interactive water heaters for load shifting applications](https://www.sciencedirect.com/science/article/pii/S0306261924025339)  
+Elizabeth Buechler, Aaron Goldin, and Ram Rajagopal  
+*Applied Energy (2025)*
+
 [Improving the Load Flexibility of Stratified Electric Water Heaters: Design and Experimental Validation of MPC Strategies](https://ieeexplore.ieee.org/document/10436431)  
 Elizabeth Buechler, Aaron Goldin, and Ram Rajagopal  
 *IEEE Transactions on Smart Grid (2024)*  
 
-## Preprints
-
-[Designing model predictive control strategies for grid-interactive water heaters for load shifting applications](https://arxiv.org/pdf/2408.02868)  
-Elizabeth Buechler, Aaron Goldin, and Ram Rajagopal  
-*Under review*
 
 ## Presentations
 

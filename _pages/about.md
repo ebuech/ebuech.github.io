@@ -16,11 +16,11 @@ Email: ebuech (at) stanford (dot) edu
 
 ## Latest News
 
+**12/31/24** - Our [new paper](https://www.sciencedirect.com/science/article/pii/S0306261924025339) on designing model predictive control strategies for residental water heaters was published in Applied Energy. This paper analyzes how various MPC algorithm design choices impact load shifting performance and thermal comfort for consumers under TOU pricing and dynamic pricing.
+
 **12/2/24** - I successfully defended and submitted my PhD dissertation titled "Data-driven modeling and control of residential loads for grid flexibility"!
 
 **8/28/24** - I presented our work on model predictive control strategies for residential water heater load shifting at the [SIGEnergy Graduate Student Seminar](https://sites.google.com/view/sigenergy-seminar/home)
-
-**8/6/24** - We posted a [new preprint](https://arxiv.org/pdf/2408.02868) on designing model predictive control strategies for residential grid-interactive water heaters.
 
 **4/23/24** - Our patent on a ["Behind-the-meter resource management system"](https://patents.google.com/patent/US11968263B2/en) for commercial dairy farms was granted.
 

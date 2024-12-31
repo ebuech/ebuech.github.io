@@ -12,7 +12,7 @@ I recently graduated from Stanford University with my PhD in Mechanical Engineer
 I previously received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
 
 
-Email: ebuech (at) stanford (dot) edu
+Email: ebuech (at) alumni (dot) stanford (dot) edu
 
 ## Latest News
 

@@ -12,8 +12,6 @@ I received my PhD in Mechanical Engineering from Stanford University in 2024. At
 I previously received my M.S. from Stanford University in 2019 and B.S. from Tufts University in 2017, both in Mechanical Engineering. I was also previously a research intern at the National Renewable Energy Laboratory (NREL) and at Oak Ridge National Laboratory (ORNL), working on residential building simulation and energy systems modeling. 
 
 
-Email: ebuech (at) alumni (dot) stanford (dot) edu
-
 ## Latest News
 
 **12/31/24** - Our [new paper](https://www.sciencedirect.com/science/article/pii/S0306261924025339) on designing model predictive control strategies for residental water heaters was published in Applied Energy. This paper analyzes how various MPC algorithm design choices impact load shifting performance and thermal comfort for consumers under TOU pricing and dynamic pricing.
